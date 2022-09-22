@@ -1,0 +1,19 @@
+#!/usr/bin/make -f
+# Copyright © 2017 IOhannes m zmölnig
+# under the GPL-2+
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+DEB_BUILD_MAINT_OPTIONS = hardening=+all
+export DEB_LDFLAGS_MAINT_APPEND = -Wl,--as-needed
+
+%:
+	dh $@
+
+licensecheck:
+	licensecheck --copyright -r . \
+	| perl -00ne 'print unless /^\.\/docs\/.*\.png:/' \
+	> debian/copyright_newhints
+	cmp debian/copyright_hints debian/copyright_newhints \
+	&& rm debian/copyright_newhints

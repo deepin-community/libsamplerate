@@ -1,0 +1,279 @@
+./AUTHORS: *No copyright* UNKNOWN
+
+./CMakeLists.txt: *No copyright* UNKNOWN
+
+./COPYING: BSD 2-clause "Simplified" License
+  [Copyright: 2012-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./ChangeLog: *No copyright* UNKNOWN
+
+./INSTALL: *No copyright* UNKNOWN
+
+./Makefile.am: *No copyright* UNKNOWN
+
+./NEWS: *No copyright* UNKNOWN
+
+./README.md: *No copyright* UNKNOWN
+
+./autogen.sh: *No copyright* UNKNOWN
+
+./config.h.cmake: *No copyright* UNKNOWN
+
+./configure.ac: UNKNOWN
+  [Copyright: 2002-2021 Erik de Castro Lopo (erikd AT mega-nerd DOT com).]
+
+./libsamplerate.spec.in: UNKNOWN
+  [Copyright: BSD]
+
+./samplerate.pc.in: *No copyright* UNKNOWN
+
+./Octave/Readme.md: *No copyright* UNKNOWN
+
+./Octave/generate_filter.m: *No copyright* UNKNOWN
+
+./Octave/make_filter.m: *No copyright* UNKNOWN
+
+./Octave/measure_filter.m: *No copyright* UNKNOWN
+
+./Win32/libsamplerate-0.def: *No copyright* UNKNOWN
+
+./cmake/ClipMode.cmake: *No copyright* UNKNOWN
+
+./cmake/FindFFTW3.cmake: BSD 2-clause "Simplified" License
+  [Copyright: 2015 Wenzel Jakob]
+
+./cmake/FindFLAC.cmake: *No copyright* UNKNOWN
+
+./cmake/FindOgg.cmake: *No copyright* UNKNOWN
+
+./cmake/FindOpus.cmake: *No copyright* UNKNOWN
+
+./cmake/FindSndFile.cmake: *No copyright* UNKNOWN
+
+./cmake/FindVorbis.cmake: *No copyright* UNKNOWN
+
+./cmake/SampleRateConfig.cmake.in: *No copyright* UNKNOWN
+
+./debian/README.source: *No copyright* UNKNOWN
+
+./debian/changelog: UNKNOWN
+  [Copyright: licensecheck support]
+
+./debian/control: *No copyright* UNKNOWN
+
+./debian/copyright: GNU General Public License v2.0 or later
+  [Copyright: -format/1.0/]
+
+./debian/copyright_hints: UNKNOWN
+  [Copyright: 2012-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]]
+
+./debian/libsamplerate0-dev.doc-base: *No copyright* UNKNOWN
+
+./debian/libsamplerate0-dev.docs: *No copyright* UNKNOWN
+
+./debian/libsamplerate0-dev.examples: *No copyright* UNKNOWN
+
+./debian/libsamplerate0-dev.install: *No copyright* UNKNOWN
+
+./debian/libsamplerate0.install: *No copyright* UNKNOWN
+
+./debian/libsamplerate0.symbols: *No copyright* UNKNOWN
+
+./debian/rules: UNKNOWN
+  [Copyright: 2017 IOhannes m zmÃ¶lnig]
+
+./debian/salsa-ci.yml: *No copyright* UNKNOWN
+
+./debian/samplerate-programs.install: *No copyright* UNKNOWN
+
+./debian/samplerate-programs.manpages: *No copyright* UNKNOWN
+
+./debian/sndfile-resample.1: *No copyright* UNKNOWN
+
+./debian/watch: *No copyright* UNKNOWN
+
+./docs/CMakeLists.txt: *No copyright* UNKNOWN
+
+./docs/SRC.css: *No copyright* UNKNOWN
+
+./docs/_config.yml: *No copyright* UNKNOWN
+
+./docs/api.md: *No copyright* UNKNOWN
+
+./docs/api_callback.md: *No copyright* UNKNOWN
+
+./docs/api_full.md: *No copyright* UNKNOWN
+
+./docs/api_misc.md: *No copyright* UNKNOWN
+
+./docs/api_simple.md: *No copyright* UNKNOWN
+
+./docs/bugs.md: *No copyright* UNKNOWN
+
+./docs/download.md: *No copyright* UNKNOWN
+
+./docs/faq.md: *No copyright* UNKNOWN
+
+./docs/history.md: *No copyright* UNKNOWN
+
+./docs/index.md: *No copyright* UNKNOWN
+
+./docs/license.md: *No copyright* BSD 2-clause "Simplified" License GNU General Public License
+
+./docs/lists.md: *No copyright* UNKNOWN
+
+./docs/quality.md: *No copyright* UNKNOWN
+
+./docs/win32.md: *No copyright* UNKNOWN
+
+./examples/CMakeLists.txt: *No copyright* UNKNOWN
+
+./examples/audio_out.c: BSD 2-clause "Simplified" License
+  [Copyright: 1999-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./examples/audio_out.h: BSD 2-clause "Simplified" License
+  [Copyright: 1999-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./examples/timewarp-file.c: BSD 2-clause "Simplified" License
+  [Copyright: 2005-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./examples/varispeed-play.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./include/samplerate.h: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./m4/ax_append_compile_flags.m4: GNU General Public License v3.0 or later
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com>]
+
+./m4/ax_append_flag.m4: GNU General Public License v3.0 or later
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com> / 2008 Guido U. Draheim <guidod@gmx.de>]
+
+./m4/ax_append_link_flags.m4: GNU General Public License v3.0 or later
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com>]
+
+./m4/ax_check_compile_flag.m4: GNU General Public License v3.0 or later
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com> / 2008 Guido U. Draheim <guidod@gmx.de>]
+
+./m4/ax_check_link_flag.m4: GNU General Public License v3.0 or later
+  [Copyright: 2011 Maarten Bosmans <mkbosmans@gmail.com> / 2008 Guido U. Draheim <guidod@gmx.de>]
+
+./m4/ax_compiler_vendor.m4: GNU General Public License v3.0 or later
+  [Copyright: 2008 Steven G. Johnson <stevenj@alum.mit.edu> / 2008 Matteo Frigo]
+
+./m4/ax_compiler_version.m4: FSF All Permissive License
+  [Copyright: 2014 Bastien ROUCARIES <roucaries.bastien+autoconf@gmail.com>]
+
+./m4/ax_recursive_eval.m4: GNU General Public License v2.0 or later
+  [Copyright: 2008 Alexandre Duret-Lutz <adl@gnu.org>]
+
+./m4/ax_require_defined.m4: FSF All Permissive License
+  [Copyright: 2014 Mike Frysinger <vapier@gentoo.org>]
+
+./m4/check_signal.m4: *No copyright* UNKNOWN
+
+./m4/clip_mode.m4: *No copyright* NTP License
+
+./src/CMakeLists.txt: *No copyright* UNKNOWN
+
+./src/Version_script.in: *No copyright* UNKNOWN
+
+./src/check_asm.sh: GNU General Public License v2.0 or later [obsolete FSF postal address (Temple Place)]
+  [Copyright: 2004-2011 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./src/common.h: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./src/fastest_coeffs.h: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./src/high_qual_coeffs.h: BSD 2-clause "Simplified" License
+  [Copyright: 2007-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./src/mid_qual_coeffs.h: BSD 2-clause "Simplified" License
+  [Copyright: 2007-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./src/samplerate.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./src/src_linear.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./src/src_sinc.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./src/src_zoh.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/CMakeLists.txt: *No copyright* UNKNOWN
+
+./tests/calc_snr.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/callback_hang_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/callback_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2003-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/clone_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/downsample_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2008-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/float_short_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2003-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/misc_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/multi_channel_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/multichan_throughput_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2008-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/nullptr_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/reset_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/simple_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/snr_bw_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/src-evaluate.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/streaming_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/termination_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/throughput_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2004-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/util.c: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/util.h: BSD 2-clause "Simplified" License
+  [Copyright: 2002-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./tests/varispeed_test.c: BSD 2-clause "Simplified" License
+  [Copyright: 2006-2016 Erik de Castro Lopo <erikd@mega-nerd.com>]
+
+./debian/patches/hurd.patch: *No copyright* UNKNOWN
+
+./debian/patches/series: *No copyright* UNKNOWN
+
+./debian/source/format: *No copyright* UNKNOWN
+
+./debian/upstream/metadata: *No copyright* UNKNOWN
+
+./docs/_layouts/default.html: *No copyright* UNKNOWN
+
