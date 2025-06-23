@@ -1,1 +1,2 @@
 usr/lib/${DEB_HOST_MULTIARCH}/libsamplerate.la
+usr/share/doc/libsamplerate0-dev/license.md

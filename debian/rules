@@ -6,14 +6,18 @@
 #export DH_VERBOSE=1
 
 DEB_BUILD_MAINT_OPTIONS = hardening=+all
-export DEB_LDFLAGS_MAINT_APPEND = -Wl,--as-needed
 
 %:
 	dh $@
 
+DEB_COPYRIGHT_CHECK_IGNORE_REGEX = \
+        debian/.*|docs/.*\.png
+# licensecheck v1
+.PHONY: licensecheck
 licensecheck:
-	licensecheck --copyright -r . \
-	| perl -00ne 'print unless /^\.\/docs\/.*\.png:/' \
-	> debian/copyright_newhints
+	LANG=C.UTF-8 licensecheck \
+		-i "^($(DEB_COPYRIGHT_CHECK_IGNORE_REGEX))$$" \
+		--check '.*' --recursive --deb-machine --lines 0 * \
+		> debian/copyright_newhints
 	cmp debian/copyright_hints debian/copyright_newhints \
-	&& rm debian/copyright_newhints
+		&& rm debian/copyright_newhints
