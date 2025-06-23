@@ -1,3 +1,41 @@
+libsamplerate (0.2.2-4) unstable; urgency=medium
+
+  * Drop transitional package 'samplerate-programs' (Closes: #1038274)
+  * Switch upstream-homepage to github
+  * Modernize 'licensecheck' target
+    + Re-generate d/copyright_hints
+  * Bump standards version to 4.6.2
+
+ -- IOhannes m zmölnig (Debian/GNU) <umlaeute@debian.org>  Tue, 29 Aug 2023 17:31:11 +0200
+
+libsamplerate (0.2.2-3) unstable; urgency=high
+
+  * Team upload
+
+  [ Debian Janitor ]
+  * Remove constraints unnecessary since buster (oldstable)
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository-Browse.
+
+  [ Dennis Braun ]
+  * Fix FTBFS with fftw3. Thanks to Bas Couwenberg (Closes: #1025310)
+  * Do not install extra license file
+
+ -- Dennis Braun <snd@debian.org>  Sat, 03 Dec 2022 22:47:47 +0100
+
+libsamplerate (0.2.2-2) unstable; urgency=medium
+
+  [ Jenkins ]
+  * Avoid explicitly specifying -Wl,--as-needed linker flag.
+
+  [ Dennis Braun ]
+  * Add pkg-config to B-Ds (Closes: #1019997)
+  * Bump Standards Version to 4.6.1
+
+  [ IOhannes m zmölnig (Debian/GNU) ]
+  * Apply 'wrap-and-sort -ast'
+
+ -- IOhannes m zmölnig (Debian/GNU) <umlaeute@debian.org>  Thu, 29 Sep 2022 10:23:59 +0200
+
 libsamplerate (0.2.2-1) unstable; urgency=medium
 
   * New upstream version 0.2.2
